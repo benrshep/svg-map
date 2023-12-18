@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
+   <style>
+      #mapsection {
+        width: 50%;
+        height: auto;
+        fill: #ccc;
+        stroke: #333;
+        stroke-width: 2;
+      }
+      #mali {
+        fill: brown;
+      }
+
+      #Benin {
+        fill: #00baba;
+      }
+
+      #Nigeria {
+        fill: yellow;
+      }
+
+      #Zimbabwe {
+        fill: brown;
+      }
+
+      #Zambia {
+        fill: green;
+      }
+
+      #Somalia {
+        fill: darkseagreen;
+      }
+
+      #Mali {
+        fill: gray;
+      }
+
+      path {
+        fill: #1da1f2;
+      }
+      path:hover {
+        fill: purple;
+        stroke: red;
+        stroke-width: 3px;
+        transition: fill 0.4s;
+      }
+    </style>
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
    width="1789.4626"
    height="2154.4556"
-   id="North_America_second_level_political_division_and_Greenland">
+   id="mapsection">
   <g
      id="Canada"
      transform="translate(-542.4669,154.09465)"
