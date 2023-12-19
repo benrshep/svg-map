@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<style>
-   #mapsection {
-        width: 50%;
-        height: auto;
-        fill: #ccc;
-        stroke: #333;
-        stroke-width: 1;
-      }
-</style>
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
+   width: "1000"
+   height: "1000"
    id="mapsection">
   <g id="Canada" transform="translate(-542.4669,154.09465)" >
     <path
