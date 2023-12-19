@@ -4,12 +4,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.0"
-   width="1789.4626"
-   height="2154.4556"
+   viewBox="0 0 1789.4626 2154.4556"
    id="mapsection">
 <style>
       #mapsection {
-        width: auto;
+        width: 800px;
         height: auto;
         fill: #eee;
       }
