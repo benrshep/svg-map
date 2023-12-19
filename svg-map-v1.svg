@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<style>
-   #mapsection {
-      width: "50%";
-      height: "auto":
-   }
-</style>
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,6 +7,20 @@
    width="1789.4626"
    height="2154.4556"
    id="mapsection">
+<style>
+      #mapsection {
+        width: auto;
+        height: auto;
+        fill: #eee;
+      }
+      path {
+        fill: #eee;
+      }
+      path:hover {
+        fill: #666;
+        transition: fill 0.4s;
+      }
+    </style>
   <g id="Canada" transform="translate(-542.4669,154.09465)" >
     <path
        id="CA-AB"
